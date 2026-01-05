@@ -1,0 +1,11 @@
+{ "time": "2026-01-05T20:24:24.309297400Z", "level": "DEBUG", "message": "Debug message", "extraData": null }
+{ "time": "2026-01-05T20:24:24.312294600Z", "level": "INFO", "message": "Info message", "extraData": null }
+{ "time": "2026-01-05T20:24:24.312294600Z", "level": "INFO", "message": "Info message", "extraData": null }
+{ "time": "2026-01-05T20:24:24.312294600Z", "level": "WARNING", "message": "Warning message", "extraData": null }
+{ "time": "2026-01-05T20:24:24.312294600Z", "level": "WARNING", "message": "Warning message", "extraData": null }
+{ "time": "2026-01-05T20:24:24.313294400Z", "level": "WARNING", "message": "Warning message", "extraData": null }
+{ "time": "2026-01-05T20:24:24.313294400Z", "level": "ERROR", "message": "Error message", "extraData": null }
+{ "time": "2026-01-05T20:24:24.313294400Z", "level": "ERROR", "message": "Error message", "extraData": null }
+{ "time": "2026-01-05T20:24:24.314294900Z", "level": "ERROR", "message": "Error message", "extraData": null }
+{ "time": "2026-01-05T20:24:24.314294900Z", "level": "ERROR", "message": "Error message", "extraData": null }
+{ "time": "2026-01-05T20:24:24.314294900Z", "level": "ERROR", "message": "Error message", "extraData": null }
